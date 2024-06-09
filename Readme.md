@@ -42,5 +42,5 @@ To run:
 * Spark-jobs: http://localhost:4040/jobs/
 
 ## After running
-![loaded](./images/after_loading.png)
+![neon.tech](./images/on-neon.png)
 
