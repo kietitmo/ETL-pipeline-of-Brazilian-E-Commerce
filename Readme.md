@@ -16,7 +16,7 @@ The things you need before installing the software.
 ### Installation
 
 Install Hadoop and Spark
-![hadoop](./images/image.png)
+![hadoop](./images/hadoop.png)
 ![spark](./images/spark-job.png)
 ![notebook](./images/jupyter-notebook.png)
 
@@ -27,13 +27,13 @@ Data ingestion to postgres
 
 To run:
 
-```
-$ Launch HDFS
-![Launch HDFS](./images/start-hdfs.png)
-![datalake](./images/datalake.png)
-$ Open and run notebooks [extract_data_from_pg.ipynb](./extract_data_from_pg.ipynb) to extract data and load into datalake
-$ Open and run notebooks [tranform_and_load.ipynb](./tranform_and_load.ipynb) to transform and load to db on neon.tech
-```
+
+* Launch HDFS
+* ![Launch HDFS](./images/start-hdfs.png)
+* ![datalake](./images/datalake.png)
+* Open and run notebooks [extract_data_from_pg.ipynb](./extract_data_from_pg.ipynb) to extract data and load into datalake
+* Open and run notebooks [tranform_and_load.ipynb](./tranform_and_load.ipynb) to transform and load to db on neon.tech
+
 
 ### Server
 
