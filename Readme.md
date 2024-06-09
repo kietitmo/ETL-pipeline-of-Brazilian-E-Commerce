@@ -20,13 +20,13 @@ Install Hadoop and Spark
 ![spark](./images/spark-job.png)
 ![notebook](./images/jupyter-notebook.png)
 
-Data ingestion to postgres
+Data ingestion to postgres.
+
 ![tables](./images/pg_tables.png)
 
 ## Usage
 
 To run:
-
 
 * Launch HDFS
 * ![Launch HDFS](./images/start-hdfs.png)
