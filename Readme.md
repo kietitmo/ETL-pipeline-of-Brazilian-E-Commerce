@@ -31,8 +31,8 @@ To run:
 * Launch HDFS
 * ![Launch HDFS](./images/start-hdfs.png)
 * ![datalake](./images/datalake.png)
-* Open and run notebooks [extract_data_from_pg.ipynb](./extract_data_from_pg.ipynb) to extract data and load into datalake
-* Open and run notebooks [tranform_and_load.ipynb](./tranform_and_load.ipynb) to transform and load to db on neon.tech
+* Open and run notebooks [extract_data_from_pg.ipynb](./extract_data_from_pg.ipynb) or spark-submit file extract_data_from_pg.py to extract data and load into datalake
+* Open and run notebooks [tranform_and_load.ipynb](./tranform_and_load.ipynb) or spark-submit tranform_and_load.py to transform and load to db on neon.tech
 
 
 ### Server
